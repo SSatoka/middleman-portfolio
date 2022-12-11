@@ -1,19 +1,19 @@
-- name: Longest Word Game
+- name: Not So Fast
+  description: Parental control for elderly people
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: Galaga
+  description: simple version of the shooting arcade video game
+  image: projects/placeholder.png
+  url: https://www.google.com
+
+- name: XXX
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
 
-- name: Movie Watchlist
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Airbnb
-  description: Decent description of the app
-  image: projects/placeholder.png
-  url: https://www.google.com
-
-- name: Final project
+- name: XXX
   description: Decent description of the app
   image: projects/placeholder.png
   url: https://www.google.com
