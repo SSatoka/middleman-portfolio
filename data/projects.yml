@@ -1,5 +1,6 @@
 - name: Not So Fast
   description: Parental control for elderly people
+  code: https://github.com/tokyodaruma/not_so_fast
   image: projects/placeholder.png
   url: https://www.google.com
 
